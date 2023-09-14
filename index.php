@@ -11,7 +11,7 @@
 <body style="background-color: #a0c3cf;">
     <nav class="nav-welcome">
         <ul>
-            <li><a class="primary-button" href="index.php">Sign up</a></li>
+            <li><a class="primary-button" href="sign_up.php">Sign up</a></li>
     </nav>
     <div class="hero">
         <h1>Managerizer system</h1>
