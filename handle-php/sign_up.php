@@ -15,6 +15,7 @@ $lastName = $_POST['last-name'];
 $email = $_POST['email'];
 $password = $_POST['password'];
 
+//uses bycrpt algorithm to hash the password - PASSWORD_DEFAULT
 $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
 
 //Check if the email is already in the database
